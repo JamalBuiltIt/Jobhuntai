@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jobhuntai/static/css/main.f86533ae.css",
+    "main.js": "/jobhuntai/static/js/main.64a8ee70.js",
+    "static/js/453.a781df2a.chunk.js": "/jobhuntai/static/js/453.a781df2a.chunk.js",
+    "index.html": "/jobhuntai/index.html",
+    "main.f86533ae.css.map": "/jobhuntai/static/css/main.f86533ae.css.map",
+    "main.64a8ee70.js.map": "/jobhuntai/static/js/main.64a8ee70.js.map",
+    "453.a781df2a.chunk.js.map": "/jobhuntai/static/js/453.a781df2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f86533ae.css",
+    "static/js/main.64a8ee70.js"
+  ]
+}
