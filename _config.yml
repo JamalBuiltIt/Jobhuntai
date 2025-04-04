@@ -1,0 +1,20 @@
+# GitHub Pages Configuration for JobHunt AI
+
+# Disable Jekyll processing
+exclude:
+  - .nojekyll
+  - node_modules
+  - package.json
+  - package-lock.json
+  - yarn.lock
+  - README.md
+  - src
+  - public
+  - .gitignore
+  - .github
+
+# Site settings (optional, only needed if using Jekyll)
+title: JobHunt AI
+description: AI-powered job application tracker
+baseurl: "/Jobhuntai"
+url: "https://JamalBuiltIt.github.io"
